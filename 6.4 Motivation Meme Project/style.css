@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: black;    
+
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25px;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-align: center;
+    
+}
+
+.image {
+    border: 5px solid white;
+    width: 100%;
+}
+
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.caveat> {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
